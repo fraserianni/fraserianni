@@ -1,4 +1,9 @@
-### Hi there 👋
+### I'm Francesco 👋
+Hello everybody
+
+I am a bioengineer with a passion for coding and the AI world. <br>
+I have many ideas 😄, I have to find the time to write them on an IDE and/or to connect the cables on the Arduino or the JETSON Nano😄.
+
 
 <!--
 **fraserianni/fraserianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
